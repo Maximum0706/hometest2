@@ -1,24 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Instalation
 
-## Getting Started
+1. Clone repository ini:
 
-First, run the development server:
+   ```bash
+   git clone (https://github.com/Maximum0706/hometest2.git)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Arah Ke Folder  di Terminal or Command
+    cd hometest2 
+  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3.Install depedensi
+    npm Install atau Yarn Install
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4.Untuk Menjalankan Project
+    npm run dev atau yarn dev
+
+5.Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. 
+
+    
+
 
 ## Learn More
 
